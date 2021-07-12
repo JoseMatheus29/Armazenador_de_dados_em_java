@@ -1,0 +1,6 @@
+Nome:Arroz
+Quantidade:15
+Nome:Feijão
+Quantidade:15
+Nome:Farinha
+Quantidade:15
