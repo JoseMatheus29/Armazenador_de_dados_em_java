@@ -1,10 +1,14 @@
 # **Armazenador de Dados**
 
 ## **Índice**
-- [Sobre](#sobre)
-- [Descrição](#descrição)
-- [Pré-requisitos](#pré-requisitos)
-- [Passo a Passo para Rodar o Projeto](#passo-a-passo-para-rodar-o-projeto)
+<div align="center">
+
+- [Sobre](#sobre)  
+- [Descrição](#descrição)  
+- [Pré-requisitos](#pré-requisitos)  
+- [Passo a Passo para Rodar o Projeto](#passo-a-passo-para-rodar-o-projeto)  
+
+</div
 
 ## **[Sobre](#índice)**
 O projeto **Armazenador de Dados** foi desenvolvido para armazenar e gerenciar informações de produtos com uma interface gráfica simples, utilizando **Java**.
